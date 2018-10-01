@@ -1,0 +1,8 @@
+{
+  "name": "jabber",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "c06f3edc"
+}
